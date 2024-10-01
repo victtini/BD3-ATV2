@@ -1,0 +1,234 @@
+[
+    {
+        "nome": "Camiseta Estampada",
+        "valor": 29.90,
+        "quantidade_em_estoque": 100,
+        "fabricante": "Moda Brasil",
+        "categoria": "Vestuário",
+        "descricao": "Camiseta de algodão com estampa exclusiva."
+    },
+    {
+        "nome": "Tênis Esportivo",
+        "valor": 199.90,
+        "quantidade_em_estoque": 50,
+        "fabricante": "Nike",
+        "categoria": "Calçados",
+        "descricao": "Tênis ideal para corrida e atividades físicas."
+    },
+    {
+        "nome": "Relógio Digital",
+        "valor": 89.90,
+        "quantidade_em_estoque": 30,
+        "fabricante": "TimeTech",
+        "categoria": "Acessórios",
+        "descricao": "Relógio digital à prova d'água com cronômetro."
+    },
+    {
+        "nome": "Mochila Escolar",
+        "valor": 79.90,
+        "quantidade_em_estoque": 75,
+        "fabricante": "Estilo Jovem",
+        "categoria": "Acessórios",
+        "descricao": "Mochila com compartimentos para laptop e material escolar."
+    },
+    {
+        "nome": "Fone de Ouvido Bluetooth",
+        "valor": 149.90,
+        "quantidade_em_estoque": 60,
+        "fabricante": "SoundMax",
+        "categoria": "Eletrônicos",
+        "descricao": "Fone de ouvido sem fio com cancelamento de ruído."
+    },
+    {
+        "nome": "Smartphone Android",
+        "valor": 999.90,
+        "quantidade_em_estoque": 20,
+        "fabricante": "TechCorp",
+        "categoria": "Eletrônicos",
+        "descricao": "Smartphone com câmera de alta resolução e 128GB de armazenamento."
+    },
+    {
+        "nome": "Cadeira Gamer",
+        "valor": 499.90,
+        "quantidade_em_estoque": 25,
+        "fabricante": "GameZone",
+        "categoria": "Móveis",
+        "descricao": "Cadeira ergonômica para gamers, ajustável e confortável."
+    },
+    {
+        "nome": "Mouse Gamer RGB",
+        "valor": 129.90,
+        "quantidade_em_estoque": 40,
+        "fabricante": "HyperX",
+        "categoria": "Acessórios",
+        "descricao": "Mouse gamer com iluminação RGB e alta precisão."
+    },
+    {
+        "nome": "Teclado Mecânico",
+        "valor": 299.90,
+        "quantidade_em_estoque": 35,
+        "fabricante": "Logitech",
+        "categoria": "Acessórios",
+        "descricao": "Teclado mecânico com switches personalizáveis."
+    },
+    {
+        "nome": "Cafeteira Elétrica",
+        "valor": 199.90,
+        "quantidade_em_estoque": 15,
+        "fabricante": null,
+        "categoria": "Eletrodomésticos",
+        "descricao": "Cafeteira elétrica com capacidade para 12 xícaras."
+    },
+    {
+        "nome": "Liquidificador",
+        "valor": 159.90,
+        "quantidade_em_estoque": 20,
+        "fabricante": "Philips",
+        "categoria": "Eletrodomésticos",
+        "descricao": "Liquidificador potente com jarra de vidro."
+    },
+    {
+        "nome": "Batedeira",
+        "valor": 249.90,
+        "quantidade_em_estoque": 10,
+        "fabricante": "Arno",
+        "categoria": "Eletrodomésticos",
+        "descricao": "Batedeira com potência de 400W e tigela de inox."
+    },
+    {
+        "nome": "Ferro de Passar",
+        "valor": 89.90,
+        "quantidade_em_estoque": 50,
+        "fabricante": null,
+        "categoria": "Eletrodomésticos",
+        "descricao": "Ferro a vapor com base antiaderente."
+    },
+    {
+        "nome": "Ventilador de Mesa",
+        "valor": 99.90,
+        "quantidade_em_estoque": 30,
+        "fabricante": null,
+        "categoria": "Eletrodomésticos",
+        "descricao": "Ventilador portátil com três velocidades."
+    },
+    {
+        "nome": "Aspirador de Pó",
+        "valor": 299.90,
+        "quantidade_em_estoque": 15,
+        "fabricante": null,
+        "categoria": "Eletrodomésticos",
+        "descricao": "Aspirador de pó com filtro HEPA."
+    },
+    {
+        "nome": "Secador de Cabelo",
+        "valor": 129.90,
+        "quantidade_em_estoque": 40,
+        "fabricante": "GHD",
+        "categoria": "Beleza",
+        "descricao": "Secador potente com tecnologia iônica."
+    },
+    {
+        "nome": "Chapinha",
+        "valor": 199.90,
+        "quantidade_em_estoque": 25,
+        "fabricante": "Babyliss",
+        "categoria": "Beleza",
+        "descricao": "Chapinha profissional com placas de cerâmica."
+    },
+    {
+        "nome": "Perfume Masculino",
+        "valor": 89.90,
+        "quantidade_em_estoque": 60,
+        "fabricante": null,
+        "categoria": "Beleza",
+        "descricao": "Perfume masculino com fragrância amadeirada."
+    },
+    {
+        "nome": "Perfume Feminino",
+        "valor": 99.90,
+        "quantidade_em_estoque": 55,
+        "fabricante": null,
+        "categoria": "Beleza",
+        "descricao": "Perfume feminino com notas florais."
+    },
+    {
+        "nome": "Creme Hidratante",
+        "valor": 29.90,
+        "quantidade_em_estoque": 100,
+        "fabricante": "Nivea",
+        "categoria": "Beleza",
+        "descricao": "Creme hidratante para pele seca."
+    },
+    {
+        "nome": "Sabonete Líquido",
+        "valor": 19.90,
+        "quantidade_em_estoque": 150,
+        "fabricante": "Dove",
+        "categoria": "Beleza",
+        "descricao": "Sabonete líquido suave para todos os tipos de pele."
+    },
+    {
+        "nome": "Máscara Facial",
+        "valor": 49.90,
+        "quantidade_em_estoque": 80,
+        "fabricante": "L’Oréal",
+        "categoria": "Beleza",
+        "descricao": "Máscara facial hidratante e revitalizante."
+    },
+    {
+        "nome": "Shampoo Anticaspa",
+        "valor": 39.90,
+        "quantidade_em_estoque": 70,
+        "fabricante": "Head & Shoulders",
+        "categoria": "Beleza",
+        "descricao": "Shampoo anticaspa que combate a oleosidade."
+    },
+    {
+        "nome": "Condicionador Hidratante",
+        "valor": 39.90,
+        "quantidade_em_estoque": 70,
+        "fabricante": "Pantene",
+        "categoria": "Beleza",
+        "descricao": "Condicionador hidratante para cabelos secos."
+    },
+    {
+        "nome": "Batom Líquido",
+        "valor": 29.90,
+        "quantidade_em_estoque": 100,
+        "fabricante": null,
+        "categoria": "Beleza",
+        "descricao": "Batom líquido matte disponível em várias cores."
+    },
+    {
+        "nome": "Notebook Gamer",
+        "valor": 4999.00,
+        "quantidade_em_estoque": 10,
+        "fabricante": "Dell",
+        "categoria": "Eletrônicos",
+        "descricao": "Notebook gamer com placa gráfica dedicada."
+    },
+    {
+        "nome": "Monitor LED",
+        "valor": 1299.00,
+        "quantidade_em_estoque": 15,
+        "fabricante": "Samsung",
+        "categoria": "Eletrônicos",
+        "descricao": "Monitor LED Full HD de 24 polegadas."
+    },
+    {
+        "nome": "Impressora Multifuncional",
+        "valor": 899.00,
+        "quantidade_em_estoque": 20,
+        "fabricante": null,
+        "categoria": "Eletrônicos",
+        "descricao": "Impressora que imprime, copia e digitaliza."
+    },
+    {
+        "nome": "Câmera Digital",
+        "valor": 1499.00,
+        "quantidade_em_estoque": 5,
+        "fabricante": null,
+        "categoria": "Eletrônicos",
+        "descricao": "Câmera digital com lente intercambiável."
+    }
+]
